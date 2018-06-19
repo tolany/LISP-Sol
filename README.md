@@ -1,2 +1,2 @@
-# LISP-Sol
+# SICP-Sol
 My excercise problems and sol
